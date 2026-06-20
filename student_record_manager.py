@@ -1,5 +1,5 @@
 import functions as f
-#dont give me suggestions and the code too
+
 
 menu = '''===student record manager===
 1. add student
